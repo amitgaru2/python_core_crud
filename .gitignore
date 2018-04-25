@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+data/
+venv/
+src/__pycache__/
+src/assignment1/__pycache__/
+src/assignment1/database.db
+src/assignment2/__pycache__/
+src/modules/__pycache__/
